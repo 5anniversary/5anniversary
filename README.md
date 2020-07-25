@@ -1,4 +1,4 @@
-### Hi I'm 5anniversary 👋
+### 🌱 Hi I'm 5anniversary 🌱
 
   <div align=center>
   
@@ -6,9 +6,18 @@
 
   </div>
   
-  ## Interest in iOS 
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=5anniversary&count_private=true)
   
-  want more info in [here](https://5anniversary.dev/me)
+  ## iOS Developer
+  
+  ### want more info in [here](https://5anniversary.dev/me)
+  ### [blog](https://blog.5anniversary.dev)
+  
+  ## Interest
+  
+  ### Swift Server, Vapor
+  ### UI/UX
+  ### React Native
   
 <!--
 **5anniversary/5anniversary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

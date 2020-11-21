@@ -11,9 +11,6 @@
   ### 🌱 I’m currently learning
   - iOS, Swift, Node.js, javascript, Spring, Java
   
-  ### 🌱 I’m currently working on
-  - 성공회대 4학년, S.owl Club president, SOPT 27th iOS part
-
   ### 😄 What Can I do
   - iOS, Vapor, Swift, Node.js, javascript, Spring, Java
   

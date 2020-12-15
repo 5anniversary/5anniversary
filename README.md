@@ -9,13 +9,13 @@
   
 <!--  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=5anniversary&count_private=true) -->
   ### 🌱 I’m currently learning
-  - iOS, Swift, Node.js, javascript, Spring, Java
+  - iOS, Swift, Spring, Java
   
   ### 😄 What Can I do
   - iOS, Vapor, Swift, Node.js, javascript, Spring, Java
   
   
-  ### [resume](https://5anniversary.dev/me) <br/><br/>
+  ### [resume](https://resume.5anniversary.dev) <br/><br/>
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/준현-오-31b41117b//)](https://www.linkedin.com/in/준현-오-31b41117b//) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.5anniversary.dev/)](https://blog.5anniversary.dev/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oh.junhyeon95@gmail.com)](mailto:oh.junhyeon95@gmail.com)
 
   

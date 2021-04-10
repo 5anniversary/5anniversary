@@ -1,4 +1,6 @@
-  
+
+# 🙋‍♂️ 안녕하세요! iOS 개발자 오준현입니다.
+
   ### [portfolio](https://resume.5anniversary.dev) <br/><br/>
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/준현-오-31b41117b//)](https://www.linkedin.com/in/준현-오-31b41117b//) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.5anniversary.dev/)](https://blog.5anniversary.dev/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oh.junhyeon95@gmail.com)](mailto:oh.junhyeon95@gmail.com)
 

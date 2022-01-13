@@ -2,7 +2,7 @@
 ### 🙋‍♂️ 안녕하세요! iOS 개발자 오준현입니다.
 
   ### [portfolio](https://5thanniversary.notion.site/iOS-f47c9b48583e4747adbdd7d78fed7cb5) <br/><br/>
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/준현-오-31b41117b//)](https://www.linkedin.com/in/준현-오-31b41117b//) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.5anniversary.dev/)](https://blog.5anniversary.dev/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oh.junhyeon95@gmail.com)](mailto:oh.junhyeon95@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/3toNTSG)](https://bit.ly/3toNTSG) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.5anniversary.dev/)](https://blog.5anniversary.dev/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oh.junhyeon95@gmail.com)](mailto:oh.junhyeon95@gmail.com)
 
   
 <!--

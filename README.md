@@ -10,7 +10,5 @@
 ### Side project
 - [빵동여지도](https://github.com/bbangmap) / [APP link](https://bbangmap.page.link/UdTB) <br/>
   2021.10 ~ now
-- [Ounce](https://github.com/teamOunce) / [APP link](https://apps.apple.com/ts/app/ounce-%EC%A7%91%EC%82%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%98%91%EB%98%91%ED%95%9C-%EA%B8%B0%EB%A1%9D%EC%9E%A5/id1535653760)<br/>
-  2020.07 ~ now
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5anniversary%2Fhit-counter)](https://hits.seeyoufarm.com)

@@ -8,7 +8,8 @@
   2021.04 ~ now (29 months)
   
 ### Side project
-- [빵동여지도](https://github.com/bbangmap) / [APP link](https://bbangmap.page.link/UdTB) <br/>
+
+[빵동여지도](https://github.com/bbangmap) / [APP link](https://bbangmap.page.link/UdTB) <br/>
   2021.10 ~ now
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5anniversary%2Fhit-counter)](https://hits.seeyoufarm.com)

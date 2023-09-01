@@ -11,8 +11,8 @@ bbang_diff = (now.year - join_date.year) * 12 + now.month - bbang_join_date.mont
 
 years = diff // 12
 months = diff % 12
-bbang_years = diff // 12
-bbang_months = diff % 12
+bbang_years = bbang_diff // 12
+bbang_months = bbang_diff % 12
 
 # README.md 파일 열기
 with open("README.md", "r") as f:

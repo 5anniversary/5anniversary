@@ -23,7 +23,7 @@ for i, line in enumerate(lines):
     if "2021.04 ~ now" in line:
         # 개월 수 업데이트
         lines[i] = f"  2021.04 ~ now ({years} years {months} months)\n"
-    if "2021.10 ~ now(" in line:
+    if "2021.10 ~ now" in line:
         # 개월 수 업데이트
         lines[i] = f"  2021.10 ~ now ({bbang_years} years {bbang_months} months)\n)\n"
 

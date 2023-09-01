@@ -1,6 +1,7 @@
 name: Update README
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0/5 * * * *"
     # - cron: '0 0 1 * *'  # 매달 1일 00:00에 실행

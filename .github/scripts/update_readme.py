@@ -9,6 +9,11 @@ now = datetime.now()
 diff = (now.year - join_date.year) * 12 + now.month - join_date.month
 bbang_diff = (now.year - join_date.year) * 12 + now.month - bbang_join_date.month
 
+years = diff // 12
+months = diff % 12
+bbang_years = diff // 12
+bbang_months = diff % 12
+
 # README.md 파일 열기
 with open("README.md", "r") as f:
     lines = f.readlines()
@@ -17,10 +22,10 @@ with open("README.md", "r") as f:
 for i, line in enumerate(lines):
     if "2021.04 ~ now" in line:
         # 개월 수 업데이트
-        lines[i] = f"  2021.04 ~ now ({diff} months)\n"
+        lines[i] = f"  2021.04 ~ now ({years} years {months} months)\n"
     if "2021.10 ~ now(" in line:
         # 개월 수 업데이트
-        lines[i] = f"  2021.10 ~ now ({bbang_join_date} months)\n"
+        lines[i] = f"  2021.10 ~ now ({bbang_years} years {bbang_months} months)\n)\n"
 
 
 # README.md 파일 저장

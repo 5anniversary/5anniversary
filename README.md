@@ -5,7 +5,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/3toNTSG)](https://bit.ly/3toNTSG) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.5anniversary.dev/)](https://blog.5anniversary.dev/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oh.junhyeon95@gmail.com)](mailto:oh.junhyeon95@gmail.com)
   
 ### work at [ABLY corporation](https://a-bly.com)
-  2021.04 ~ now (29 months)
+  2021.04 ~ now (2 years 5 months)
   
 ### Side project
 

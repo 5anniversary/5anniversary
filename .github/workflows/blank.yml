@@ -17,5 +17,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add README.md
-        git commit -m "Auto update months worked"
-        git push
+        git diff --cached --quiet || git commit -m "Auto update months worked"
+        git push || true

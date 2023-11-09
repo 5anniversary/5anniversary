@@ -6,8 +6,8 @@ bbang_join_date = datetime(2021, 10, 1)
 
 # 현재 날짜와 비교
 now = datetime.now()
-diff = (now.year - join_date.year) * 12 + now.month - join_date.month
-bbang_diff = (now.year - join_date.year) * 12 + now.month - bbang_join_date.month
+diff = (now.year - join_date.year) * 12 + now.month - join_date.month + 1
+bbang_diff = (now.year - join_date.year) * 12 + now.month - bbang_join_date.month + 1
 
 # README.md 파일 열기
 with open("README.md", "r") as f:

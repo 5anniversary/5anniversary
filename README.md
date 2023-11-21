@@ -4,7 +4,7 @@
   ### [about me](https://5thanniversary.notion.site/iOS-f47c9b48583e4747adbdd7d78fed7cb5) <br/><br/>
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/3toNTSG)](https://bit.ly/3toNTSG) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.5anniversary.dev/)](https://blog.5anniversary.dev/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oh.junhyeon95@gmail.com)](mailto:oh.junhyeon95@gmail.com)
   
-### work at [ABLY corporation](https://a-bly.com)
+### work at [ABLY corporation](https://ably.team)
   2021.04 ~ now (2 years 7 months)
   
 ### Side project

@@ -2,5 +2,3 @@
   
 ### work at [ABLY corporation](https://ably.team)
   2021.04 ~ now (5 years 0 months)
-    
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5anniversary%2Fhit-counter)](https://hits.seeyoufarm.com)
